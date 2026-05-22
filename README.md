@@ -18,3 +18,5 @@ Java 17, Maven, AWS Lambda, S3, Rekognition, DynamoDB, IAM
 1. Create S3 bucket + DynamoDB table `ImageAnalysis` with `imageName` as partition key
 2. Deploy Lambda JAR with IAM role for Rekognition/S3/DynamoDB
 3. Add S3 trigger for `ObjectCreated` events
+## Demo 
+Dynamodb Result.png
