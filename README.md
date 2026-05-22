@@ -20,8 +20,7 @@ Java 17, Maven, AWS SDK v2, Lambda, S3, Rekognition, DynamoDB, IAM
 ## Demo
 ![DynamoDB Result](Dynamodb%20Result.png)
 
-## Live API Endpoint
-`POST https://u55ndx8d52.execute-api.us-east-1.amazonaws.com/analyze`
+
 
 ## Sample Output
 | imageName | labels | celebrities |
